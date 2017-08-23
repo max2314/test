@@ -2,5 +2,3 @@ Some test
 Первый тест по git
 
 Test test
-
-13:55 commit
